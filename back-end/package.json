@@ -1,0 +1,11 @@
+{
+  "name": "back-end",
+  "version": "0.0.0",
+  "description": "This server is for Fast_Tp app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jose Naime",
+  "license": "ISC"
+}
